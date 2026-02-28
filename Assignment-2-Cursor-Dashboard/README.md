@@ -1,151 +1,109 @@
-##Cursor Landing Page – UI Recreation
+# Cursor Landing Page – UI Recreation
 
--This project is a frontend UI recreation of the Cursor website landing page, built using HTML and CSS. The goal of this project is to practice layout structuring, typography, spacing, and dark-theme design consistency.
+A front-end UI recreation of the Cursor website landing page built using HTML and CSS.
 
----
-
-##Sections Recreated
-
--The following sections from the original Cursor website were recreated:
-
--Hero Section
-
--Main headline and subheading
-
--Primary call-to-action button
-
--Editor preview image
-
--Trusted By / Logo Strip
-
--Company logos displayed in a horizontal row
+This project focuses on layout structuring, typography, spacing, and maintaining dark-theme design consistency.
 
 ---
 
-##Feature Sections
+## 🚀 Tech Stack
 
--Code assistance and automation highlights
+- HTML5  
+- CSS3  
+- Flexbox  
+- Dark-theme UI styling  
 
--Side-by-side text and image layouts
-
--Code Preview Sections
-
--Dark-themed code blocks
-
--Testimonials Section
-
--User feedback cards
-
--Profile images and short quotes
-
--Changelog Section
-
--Version cards with brief update descriptions
-
--Call to Action
-
--Footer
-
--Product links
-
--Company links
-
--Legal and social references
+No frameworks or JavaScript libraries were used.
 
 ---
 
-##Fonts Used
+## 📌 Sections Recreated
 
--The project uses system and web-safe fonts to closely match the original design:
+- Hero Section  
+  - Headline and subheading  
+  - Primary call-to-action button  
+  - Editor preview image  
 
--Primary Font:
-Inter, sans-serif
+- Trusted By / Logo Strip  
+  - Horizontal company logo row  
 
--Fallback Fonts:
-system-ui, -apple-system, Segoe UI, Roboto, Arial
+- Feature Sections  
+  - Code assistance and automation highlights  
+  - Side-by-side text and image layouts  
 
---
+- Code Preview Sections  
+  - Dark-themed code blocks  
 
-#Font weights used:
+- Testimonials Section  
+  - User feedback cards  
+  - Profile images and quotes  
 
--Regular (400)
+- Changelog Section  
+  - Version update cards  
 
--Medium (500)
+- Call to Action  
 
--Semi-Bold (600)
-
--Bold (700)
-
----
-
-##Colors Used
-
--The design follows a dark UI theme with subtle contrast and accent highlights.
-
-#Primary Colors
-
--Background:
-#0b0b0b / #0f0f0f
-
--Section Backgrounds:
-#121212, #161616
-
-#Text Colors
-
--Primary Text:
-#ffffff
-
--Secondary Text:
-#b3b3b3
-
--Muted Text:
-#8a8a8a
-
-#Accent Colors
-
--Primary Accent (Buttons / Links):
-#f97316 (Orange)
-
--Hover Accent:
-#fb923c
-
-#Borders & Dividers
-
--Border Color:
-#1f1f1f
-
--Card Outline:
-#262626
+- Footer  
+  - Product links  
+  - Company links  
+  - Legal and social references  
 
 ---
 
-##Technologies Used
+## 🎨 Design System
 
--HTML5
+### Fonts
 
--CSS3
+Primary Font:
+- Inter, sans-serif  
 
--Flexbox for layout
+Fallback Fonts:
+- system-ui  
+- -apple-system  
+- Segoe UI  
+- Roboto  
+- Arial  
 
--Dark theme UI styling
-
----
-
-##Purpose of the Project
-
--Improve UI recreation skills
-
--Practice spacing, alignment, and typography
-
--Understand real-world landing page structure
-
--Build confidence in dark-theme layouts
-
--Webpage screenshot
+Font Weights Used:
+- 400 (Regular)  
+- 500 (Medium)  
+- 600 (Semi-Bold)  
+- 700 (Bold)  
 
 ---
 
-##Webpage Screenshot
+### Colors
 
+**Background Colors**
+- `#0b0b0b`
+- `#0f0f0f`
+- `#121212`
+- `#161616`
 
-<img width="1900" height="9740" alt="cursor-webpage-using-html-row-css vercel app_" src="https://github.com/user-attachments/assets/2041a97f-e9ba-4f0c-8b09-5c0025069b0c" />
+**Text Colors**
+- Primary: `#ffffff`
+- Secondary: `#b3b3b3`
+- Muted: `#8a8a8a`
+
+**Accent Colors**
+- Primary Accent: `#f97316`
+- Hover Accent: `#fb923c`
+
+**Borders & Dividers**
+- Border: `#1f1f1f`
+- Card Outline: `#262626`
+
+---
+
+## 🎯 Purpose
+
+- Improve UI recreation skills  
+- Practice spacing and alignment  
+- Understand real-world landing page structure  
+- Build confidence in dark-theme design systems  
+
+---
+
+## 📸 Screenshot
+
+<img width="1900" height="9740" alt="Cursor Landing Page Screenshot" src="https://github.com/user-attachments/assets/2041a97f-e9ba-4f0c-8b09-5c0025069b0c" />
